@@ -32,23 +32,23 @@ PASSWORD=your_password_here
 ## Final Product
 
 Main Page:
-!["Login page"]()
+!["Login page"](https://github.com/Hayder-Suwaed/final_project/blob/master/public/images/IMG_2524.PNG)
 
 Scanner Page
-!["Scanner page"]()
+!["QRScanner page"](https://github.com/Hayder-Suwaed/final_project/blob/master/public/images/IMG_2525.PNG)
 
 Products details page
-!["Products details page"]()
+!["Products details page"](https://github.com/Hayder-Suwaed/final_project/blob/master/public/images/IMG_2526.PNG)
 
 Cart:
 
-![Cart page]()
+![Cart page](https://github.com/Hayder-Suwaed/final_project/blob/master/public/images/IMG_2528.PNG)
 
 Confirmation page
-![Confirmation page]()
+![Confirmation page](https://github.com/Hayder-Suwaed/final_project/blob/master/public/images/IMG_2527.PNG)
 
 Payment page
-![Payment page]()
+![Payment page](https://github.com/Hayder-Suwaed/final_project/blob/master/public/images/IMG_2529.PNG)
 
 
 ## Dependec
