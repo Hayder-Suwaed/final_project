@@ -7,7 +7,7 @@ User can Login and Logut (for the moment user no need to register or login | use
 
 1. Clone the project to your local repo.
 2. Run `npm install`
-3. User needs ti install Expo app so can run the application.
+3. User needs ti install Expo app on mobile so he can run the application.
 * Expo Guid (https://expo.io/tools)
 4. Expo runs on the same wifi used in the computer.
 5. Run `expo start` to run the app.
