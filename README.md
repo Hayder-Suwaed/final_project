@@ -1,5 +1,5 @@
 # bugi
-A mini mobile shopping applicationbuilt with React Native and Expo tool for purpose of Final Project of Lighthouse Labs.
+A mini mobile shopping application built with React Native and Expo tool for purpose of Final Project of Lighthouse Labs.
 User can Login and Logut (for the moment user no need to register or login | user can immediately scanning), Scan barcode of products, add to cart, confirme the QTY ( Icrease/Descrese ) and payment.
 
 
